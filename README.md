@@ -1,2 +1,2 @@
-# Calorimetr-a
+# Calorimetria
 Informe de calorimetria
